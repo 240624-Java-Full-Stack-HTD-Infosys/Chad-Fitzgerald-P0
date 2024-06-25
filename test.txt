@@ -1,1 +1,4 @@
 test file
+test push text
+
+should be ignored now
